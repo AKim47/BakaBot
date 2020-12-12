@@ -1,11 +1,9 @@
 
 # bot.py
 import discord
+import config
 
 # create discord client
-client = discord.Client()
-token = '51385695d559b432c91d8e96beb1380cd835052136721420a48dcdc22bd40152'
-
 idiot_tracker = {}
 
 # bot is ready
