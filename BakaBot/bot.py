@@ -4,7 +4,7 @@ import discord
 
 # create discord client
 client = discord.Client()
-token = 'Nzg3MjMwMjg0MDkyNDA3ODE4.X9R7VQ.mDf_UHYdeUPh_wq5OEEUL4WhAOQ'
+token = '51385695d559b432c91d8e96beb1380cd835052136721420a48dcdc22bd40152'
 
 idiot_tracker = {}
 
